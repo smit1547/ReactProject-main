@@ -10,7 +10,7 @@ import AddCourse from "./components/AddCourse";
 import Contact from "./components/Contact";
 import Menus from "./components/Menus";
 import Aboutus from "./components/Aboutus";
-// import {BrowserRouter as Router ,Route,Routes} from "react-router-dom";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
 
 function App() {
@@ -70,10 +70,10 @@ function App() {
 
 
         <
-        /Col> <
-        /Row> <
-        /Container> <
-        /Router>
+        /Col> < /
+        Row > <
+        /Container> < /
+        Router >
 
         <
         />
